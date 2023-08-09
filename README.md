@@ -1,2 +1,2 @@
 # upholstery_project
-![(preview/01.png)]
+![](preview/01.png)
